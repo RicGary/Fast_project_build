@@ -1,6 +1,4 @@
-# Project Discontinued
-
-This project has been discontinued.
+# Project Structure
 
 ## Description
 
@@ -19,4 +17,21 @@ Example:
 
 ```bash
 fastproject <desired_directory> <desired_project_name>
+```
+
+## Python Project Structure
+
+```
+.\YOUR_PROJECT_NAME
+├───src
+│   ├───helper
+│   └───utils
+├───tests
+├───docs
+│   README.md
+│   requirements.txt
+│   main.py
+│   .gitignore
+│   .env
+│   .config
 ```

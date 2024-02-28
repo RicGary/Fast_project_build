@@ -1,1 +1,22 @@
-eventually I will write something here :)
+# Project Discontinued
+
+This project has been discontinued.
+
+## Description
+
+This project was aimed at creating a directory structure and necessary files for a project.
+
+## Usage
+
+To use this project, you can follow the instructions below:
+
+1. Clone the repository.
+2. Execute the `create_exe.py` file with the desired directory and project name as command-line arguments.
+3. Add the `fastproject.exe` to your PATH.
+4. Just type on command line as bellow.
+
+Example:
+
+```bash
+fastproject <desired_directory> <desired_project_name>
+```
